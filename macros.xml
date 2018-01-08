@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Fix next error (Mac)">
+      <action id="GotoNextError" />
+      <action id="ShowIntentionActions" />
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>
