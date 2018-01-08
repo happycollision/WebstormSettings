@@ -1,0 +1,20 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="Macro.fix next error">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
+  <action id="SaveDocument">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+</keymap>
