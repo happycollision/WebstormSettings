@@ -9,6 +9,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="Macro.Fix next error (Mac)">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="Macro.fix next error">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
