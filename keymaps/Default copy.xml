@@ -3,6 +3,10 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CompareTwoFiles">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+  <action id="EditorDuplicate" />
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
@@ -28,11 +32,16 @@
     <keyboard-shortcut first-keystroke="shift alt period" />
   </action>
   <action id="ParameterInfo" />
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
   <action id="SaveDocument">
     <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
