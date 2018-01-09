@@ -6,11 +6,24 @@
   <action id="CompareTwoFiles">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockStart" />
   <action id="EditorDuplicate" />
+  <action id="EditorIndentLineOrSelection">
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
+  <action id="EditorIndentSelection">
+    <keyboard-shortcut first-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="shift tab" />
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoAction">
