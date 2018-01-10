@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="selection" />
-    <option name="defaultScopeName" value="selection" />
-    <option name="SEARCH_SCOPE" value="selection" />
+    <option name="customScope" value="File '...\src\app\components\modal\modalbase.ts [useful-angular-components]'" />
+    <option name="defaultScopeName" value="File '...\src\app\components\modal\modalbase.ts [useful-angular-components]'" />
+    <option name="SEARCH_SCOPE" value="File '...\src\app\components\modal\modalbase.ts [useful-angular-components]'" />
   </component>
 </application>
